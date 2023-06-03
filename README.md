@@ -1,10 +1,10 @@
 # Listed-Nodejs-Intern-Assessment
 
-First run:-
+-First run:-
 
 npm install
 
-To install the dependencies and to start the app run
+-To install the dependencies and to start the app run:-
 
 node index.js
 
